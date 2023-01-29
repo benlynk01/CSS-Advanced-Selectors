@@ -1,0 +1,45 @@
+*{
+    background-color: silver;
+}
+
+button:hover{
+    background-color: blue;
+
+}
+
+button:active{
+    height: 150px;
+    width: 200px;
+    border: 5px solid;
+}
+
+li[special]{
+    color: red;
+}
+
+li[big]{
+    font-size: 24px;
+}
+
+.Utensils{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.Instructions{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    color: white;
+}
+
+.CleanUp{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+p[it]{
+    font-style: italic;
+}
